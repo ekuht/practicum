@@ -10,4 +10,4 @@
 ##### Показ логов;
 ##### Очистка логов;
 ##### Очистка файла идентификации.
-![image](https://user-images.githubusercontent.com/81702479/147151138-6a9eb919-1e49-4d82-929e-87da4f7a34e2.png)
+![image](https://user-images.githubusercontent.com/81702479/147151245-a0e9f302-50f5-4611-85c6-fbf5fffecdef.png)

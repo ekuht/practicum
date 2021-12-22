@@ -4,7 +4,7 @@
 #### Общение между пользователями
 ![image](https://user-images.githubusercontent.com/81702479/147150998-06d6472d-f0a7-4f3b-9450-1a9c19760349.png)
 #### Все данные хранятся в логинах
-![image](https://user-images.githubusercontent.com/92955179/138529583-6e1982d0-dddd-4e97-9b86-92d1792e96b2.png)
+![image](https://user-images.githubusercontent.com/81702479/147151178-ac8fa2b0-cf9a-4169-a98e-6865aebec4e7.png)
 ##### Отключение сервера (завершение программы);
 ##### Пауза (остановка прослушивание порта);
 ##### Показ логов;
